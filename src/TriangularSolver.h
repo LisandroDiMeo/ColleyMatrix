@@ -1,0 +1,10 @@
+//
+// Created by lisandro on 27/11/20.
+//
+
+#ifndef COLLEYMATRIX_TRIANGULARSOLVER_H
+#define COLLEYMATRIX_TRIANGULARSOLVER_H
+
+#include "types.h"
+
+#endif //COLLEYMATRIX_TRIANGULARSOLVER_H
