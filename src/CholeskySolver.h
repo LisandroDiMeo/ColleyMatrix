@@ -9,7 +9,7 @@
 
 class CholeskySolver {
 public:
-    CholeskySolver(MatrixXd A){selfMatrix = A;}
+    CholeskySolver(MatrixXd A){ this->selfMatrix = A; };
     void fit();
     MatrixXd getLMatrix();
     Vector predict(Vector &x);
