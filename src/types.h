@@ -7,7 +7,7 @@
 
 #include <Eigen/Sparse>
 #include <Eigen/Dense>
-//#include <Eigen/Cholesky>
+#include <Eigen/Cholesky>
 
 using namespace std;
 

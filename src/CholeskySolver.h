@@ -8,7 +8,8 @@
 
 
 class CholeskySolver {
-    explicit CholeskySolver(MatrixXd A){selfMatrix = A;}
+public:
+    CholeskySolver(MatrixXd A){selfMatrix = A;}
     void fit();
     MatrixXd getLMatrix();
     Vector predict(Vector &x);
@@ -16,6 +17,7 @@ class CholeskySolver {
 private:
     MatrixXd selfMatrix;
     MatrixXd L;
+    MatrixXd Lt;
     bool trained = false;
 
 };
