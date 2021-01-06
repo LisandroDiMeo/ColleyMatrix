@@ -24,7 +24,7 @@
 <p>Wesley N. Colley proposed a modern, simple and <strong>bias-free</strong> method to choose a champion using very basic statistical principles, and focusing in the outcomes of each team along the tournament between the other teams.</p>
 <h1 id="how-it-works">How it works</h1>
 <p>Probably the most fundamental questions when designing a ranking system are: How to reward victories? How to penalize defeats? What about draws? Shall I consider the win margin?<br>
-t:</p>
+The main thing we can notice when reading what Colley proposed is that he decided to consider only the wins and losses of each team. In his article, he gives some examples of why this is convenient, but in summary, only using wins and losses, leaving aside other indicators:</p>
 <ul>
 <li>Eliminates any bias towards conference, history or tradition.</li>
 <li>Eliminates the need to invoke some <em>ad hoc</em> means of deflating runaway scores.</li>
