@@ -19,12 +19,12 @@
 </ol>
 <hr>
 <h1 id="introduction">Introduction</h1>
-<p>The problem came up to the <em>math world</em> when in the late nineties the choosing of a college football champion became questionable. From decades, the most important polls of rankings always disagreed. The main reason why, it’s because the tournament style of the college football championship, were not all the teams play between them the same amount of times (this is a <em>round-robin</em> tournament, like the Premier League).  Moreover, there are teams that NEVER play against each other. That’s why various ranking systems may fail choosing without bias a proper champion.</p>
-<p>As a vague example, the <em>win-loss</em> rate, in <em>round-robin</em> tournaments give us a very good approach of its winner, but in the <strong>National Championship</strong>, it’s terribly bad.</p>
-<p>Wesley N. Colley proposed a modern, simple and <strong>bias-free</strong> way to choose a champion using very basic statistical principles, and focusing in the outcomes of each team along the tournament between the other teams.</p>
+<p>The problem came up to the <em>math world</em> when in the late nineties the choosing of a college football champion became questionable. From decades, the most important polls of rankings always disagreed. The main reason why, it’s because the tournament style of the college football championship, where not all the teams play between them the same amount of times (this is a <em>round-robin</em> tournament, like the Premier League).  Moreover, there are teams that NEVER play against each other. That’s why various ranking systems may fail choosing without bias a proper champion.</p>
+<p>As a vague example, the <em>win-loss</em> rate in <em>round-robin</em> tournaments give us a very good approach of its winner, but in the <strong>National Championship</strong>, it’s terribly bad.</p>
+<p>Wesley N. Colley proposed a modern, simple and <strong>bias-free</strong> method to choose a champion using very basic statistical principles, and focusing in the outcomes of each team along the tournament between the other teams.</p>
 <h1 id="how-it-works">How it works</h1>
 <p>Probably the most fundamental questions when designing a ranking system are: How to reward victories? How to penalize defeats? What about draws? Shall I consider the win margin?<br>
-The main thing we can notice reading what Colley proposed is that he decided to only consider wins and losses of each team. In his paper, he give a few examples why this is convenient, but summarizing, only using wins and losses:</p>
+t:</p>
 <ul>
 <li>Eliminates any bias towards conference, history or tradition.</li>
 <li>Eliminates the need to invoke some <em>ad hoc</em> means of deflating runaway scores.</li>
